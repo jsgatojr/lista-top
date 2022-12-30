@@ -13,10 +13,6 @@ http://4tv.site:2082/1999734/19997344411/201476
 http://4tv.site:2082/1999734/19997344411/201477
 #EXTINF:0 type="stream" channelId="-1", Cine HardBlog
 http://4tv.site:2082/1999734/19997344411/168584
-#EXTINF:0 type="stream" channelId="-1", FURACÃO TV¹
-http://4tv.site:2082/1999734/19997344411/195108
-#EXTINF:0 type="stream" channelId="-1", FURACÃO TV²
-http://4tv.site:2082/1999734/19997344411/196501
 #EXTINF:0 type="stream" channelId="-1", A&E HD²
 http://4tv.site:2082/1999734/19997344411/34915
 #EXTINF:0 type="stream" channelId="-1", A&E SD¹
@@ -29,10 +25,6 @@ http://4tv.site:2082/1999734/19997344411/34428
 http://4tv.site:2082/1999734/19997344411/42770
 #EXTINF:0 type="stream" channelId="-1", AMADO BATISTA #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/167763
-#EXTINF:0 type="stream" channelId="-1", AMC FHD H265¹
-http://4tv.site:2082/1999734/19997344411/18108
-#EXTINF:0 type="stream" channelId="-1", AMC FHD H265²
-http://4tv.site:2082/1999734/19997344411/38775
 #EXTINF:0 type="stream" channelId="-1", AMC HD¹
 http://4tv.site:2082/1999734/19997344411/18205
 #EXTINF:0 type="stream" channelId="-1", AMC HD²
@@ -41,10 +33,6 @@ http://4tv.site:2082/1999734/19997344411/34916
 http://4tv.site:2082/1999734/19997344411/17879
 #EXTINF:0 type="stream" channelId="-1", AMC SD²
 http://4tv.site:2082/1999734/19997344411/35231
-#EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET FHD H265¹
-http://4tv.site:2082/1999734/19997344411/18109
-#EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET FHD²
-http://4tv.site:2082/1999734/19997344411/34615
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD¹
 http://4tv.site:2082/1999734/19997344411/18206
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD²
@@ -243,8 +231,6 @@ http://4tv.site:2082/1999734/19997344411/39182
 http://4tv.site:2082/1999734/19997344411/39183
 #EXTINF:0 type="stream" channelId="-1", CONMEBOL 4 HD²
 http://4tv.site:2082/1999734/19997344411/46209
-#EXTINF:0 type="stream" channelId="-1", CURTA! FHD
-http://4tv.site:2082/1999734/19997344411/35173
 #EXTINF:0 type="stream" channelId="-1", CURTA! HD¹
 http://4tv.site:2082/1999734/19997344411/34926
 #EXTINF:0 type="stream" channelId="-1", CURTA! SD²
@@ -581,10 +567,6 @@ http://4tv.site:2082/1999734/19997344411/35110
 http://4tv.site:2082/1999734/19997344411/18021
 #EXTINF:0 type="stream" channelId="-1", IGREJA UNIVERSAL SD
 http://4tv.site:2082/1999734/19997344411/45992
-#EXTINF:0 type="stream" channelId="-1", INVESTIGAÇÃO DISCOVERY FHD H265¹
-http://4tv.site:2082/1999734/19997344411/18154
-#EXTINF:0 type="stream" channelId="-1", INVESTIGAÇÃO DISCOVERY FHD H265²
-http://4tv.site:2082/1999734/19997344411/34681
 #EXTINF:0 type="stream" channelId="-1", INVESTIGAÇÃO DISCOVERY HD¹
 http://4tv.site:2082/1999734/19997344411/18249
 #EXTINF:0 type="stream" channelId="-1", INVESTIGAÇÃO DISCOVERY HD²
@@ -1357,28 +1339,14 @@ http://4tv.site:2082/1999734/19997344411/195050
 http://4tv.site:2082/1999734/19997344411/197037
 #EXTINF:0 type="stream" channelId="-1", BAND PARANA HD
 http://4tv.site:2082/1999734/19997344411/197038
-#EXTINF:0 type="stream" channelId="-1", RECORD VILA REAL FHD
-http://4tv.site:2082/1999734/19997344411/197390
-#EXTINF:0 type="stream" channelId="-1", RECORD VILA REAL HD
-http://4tv.site:2082/1999734/19997344411/197391
 #EXTINF:0 type="stream" channelId="-1", RECORD SC
 http://4tv.site:2082/1999734/19997344411/198449
-#EXTINF:0 type="stream" channelId="-1", GLOBO TV VERDE MARES FORTALEZA HD
-http://4tv.site:2082/1999734/19997344411/199191
-#EXTINF:0 type="stream" channelId="-1", GLOBO TV ANHANGUERA SD
-http://4tv.site:2082/1999734/19997344411/199208
-#EXTINF:0 type="stream" channelId="-1", TVE Bahia SD¹
-http://4tv.site:2082/1999734/19997344411/200125
 #EXTINF:0 type="stream" channelId="1306", Cartoonito Hd
 http://4tv.site:2082/1999734/19997344411/200605
 #EXTINF:0 type="stream" channelId="1305", Cartoonito Sd
 http://4tv.site:2082/1999734/19997344411/200606
 #EXTINF:0 type="stream" channelId="-1", RECORD ES HD
 http://4tv.site:2082/1999734/19997344411/200876
-#EXTINF:0 type="stream" channelId="-1", GLOBO TV GAZETA RECIFE HD
-http://4tv.site:2082/1999734/19997344411/200904
-#EXTINF:0 type="stream" channelId="-1", GLOBO TV GAZETA RECIFE FHD
-http://4tv.site:2082/1999734/19997344411/200905
 #EXTINF:0 type="stream" channelId="-1", Bundesliga 01
 http://4tv.site:2082/1999734/19997344411/201043
 #EXTINF:0 type="stream" channelId="-1", Bundesliga 02
