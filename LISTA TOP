@@ -645,8 +645,6 @@ http://4tv.site:2082/1999734/19997344411/38740
 http://4tv.site:2082/1999734/19997344411/17946
 #EXTINF:0 type="stream" channelId="-1", MY TIME MOVIE NETWORK HD
 http://4tv.site:2082/1999734/19997344411/156037
-#EXTINF:0 type="stream" channelId="-1", NATGEO FHD H265²
-http://4tv.site:2082/1999734/19997344411/34673
 #EXTINF:0 type="stream" channelId="-1", NATGEO HD²
 http://4tv.site:2082/1999734/19997344411/34978
 #EXTINF:0 type="stream" channelId="-1", NATGEO SD²
@@ -803,26 +801,8 @@ http://4tv.site:2082/1999734/19997344411/34514
 http://4tv.site:2082/1999734/19997344411/188770
 #EXTINF:0 type="stream" channelId="-1", RECORD RIO SD¹
 http://4tv.site:2082/1999734/19997344411/43126
-#EXTINF:0 type="stream" channelId="-1", RECORD BAHIA HD¹
-http://4tv.site:2082/1999734/19997344411/43119
-#EXTINF:0 type="stream" channelId="-1", RECORD BAHIA SD¹
-http://4tv.site:2082/1999734/19997344411/43120
-#EXTINF:0 type="stream" channelId="-1", RECORD BELÉM HD²
-http://4tv.site:2082/1999734/19997344411/34508
-#EXTINF:0 type="stream" channelId="-1", RECORD BELÉM HD¹
-http://4tv.site:2082/1999734/19997344411/43122
 #EXTINF:0 type="stream" channelId="-1", RECORD BRASILIA HD²
 http://4tv.site:2082/1999734/19997344411/34509
-#EXTINF:0 type="stream" channelId="-1", RECORD ESPIRITO SANTO HD¹
-http://4tv.site:2082/1999734/19997344411/35275
-#EXTINF:0 type="stream" channelId="-1", RECORD GOIAS HD²
-http://4tv.site:2082/1999734/19997344411/18271
-#EXTINF:0 type="stream" channelId="-1", RECORD MINAS HD¹
-http://4tv.site:2082/1999734/19997344411/34512
-#EXTINF:0 type="stream" channelId="-1", RECORD MINAS SD²
-http://4tv.site:2082/1999734/19997344411/35277
-#EXTINF:0 type="stream" channelId="-1", RECORD NEWS FHD
-http://4tv.site:2082/1999734/19997344411/38747
 #EXTINF:0 type="stream" channelId="-1", RECORD NEWS HD²
 http://4tv.site:2082/1999734/19997344411/38746
 #EXTINF:0 type="stream" channelId="-1", RECORD NEWS HD¹
@@ -831,24 +811,8 @@ http://4tv.site:2082/1999734/19997344411/17969
 http://4tv.site:2082/1999734/19997344411/20899
 #EXTINF:0 type="stream" channelId="-1", RECORD NEWS SD²
 http://4tv.site:2082/1999734/19997344411/34513
-#EXTINF:0 type="stream" channelId="-1", RECORD PARÁ HD¹
-http://4tv.site:2082/1999734/19997344411/174119
-#EXTINF:0 type="stream" channelId="-1", RECORD RS HD
-http://4tv.site:2082/1999734/19997344411/18056
-#EXTINF:0 type="stream" channelId="-1", RECORD RS HD²
-http://4tv.site:2082/1999734/19997344411/35280
-#EXTINF:0 type="stream" channelId="-1", RECORD RS SD¹
-http://4tv.site:2082/1999734/19997344411/49814
-#EXTINF:0 type="stream" channelId="-1", RECORD SANTA CATARINA HD¹
-http://4tv.site:2082/1999734/19997344411/174118
 #EXTINF:0 type="stream" channelId="-1", REDBULL TV HD
 http://4tv.site:2082/1999734/19997344411/38753
-#EXTINF:0 type="stream" channelId="-1", REDE GENESIS FHD
-http://4tv.site:2082/1999734/19997344411/45993
-#EXTINF:0 type="stream" channelId="-1", REDE GENESIS SD
-http://4tv.site:2082/1999734/19997344411/45994
-#EXTINF:0 type="stream" channelId="2450", REDE SÉCULO 21 SD
-http://4tv.site:2082/1999734/19997344411/26813
 #EXTINF:0 type="stream" channelId="-1", REDE TV HD¹
 http://4tv.site:2082/1999734/19997344411/18272
 #EXTINF:0 type="stream" channelId="-1", REDE TV SD¹
@@ -881,30 +845,8 @@ http://4tv.site:2082/1999734/19997344411/18068
 http://4tv.site:2082/1999734/19997344411/43128
 #EXTINF:0 type="stream" channelId="-1", SBT RIO HD
 http://4tv.site:2082/1999734/19997344411/177050
-#EXTINF:0 type="stream" channelId="-1", SBT BA HD
-http://4tv.site:2082/1999734/19997344411/177042
-#EXTINF:0 type="stream" channelId="-1", SBT GO HD
-http://4tv.site:2082/1999734/19997344411/177043
-#EXTINF:0 type="stream" channelId="-1", SBT GOIANIA HD
-http://4tv.site:2082/1999734/19997344411/43135
-#EXTINF:0 type="stream" channelId="-1", SBT MA HD
-http://4tv.site:2082/1999734/19997344411/177044
-#EXTINF:0 type="stream" channelId="-1", SBT MG HD
-http://4tv.site:2082/1999734/19997344411/177045
-#EXTINF:0 type="stream" channelId="-1", SBT MT HD
-http://4tv.site:2082/1999734/19997344411/177046
 #EXTINF:0 type="stream" channelId="-1", SBT BRASILIA HD
 http://4tv.site:2082/1999734/19997344411/177047
-#EXTINF:0 type="stream" channelId="-1", SBT PE HD
-http://4tv.site:2082/1999734/19997344411/177048
-#EXTINF:0 type="stream" channelId="-1", SBT PI HD
-http://4tv.site:2082/1999734/19997344411/177049
-#EXTINF:0 type="stream" channelId="-1", SBT RS HD
-http://4tv.site:2082/1999734/19997344411/43133
-#EXTINF:0 type="stream" channelId="-1", SBT SE HD
-http://4tv.site:2082/1999734/19997344411/177051
-#EXTINF:0 type="stream" channelId="-1", SBT SP INT FHD
-http://4tv.site:2082/1999734/19997344411/43134
 #EXTINF:0 type="stream" channelId="-1", SIMONE E SIMARIA
 http://4tv.site:2082/1999734/19997344411/34432
 #EXTINF:0 type="stream" channelId="-1", SKANK
@@ -917,8 +859,6 @@ http://4tv.site:2082/1999734/19997344411/34523
 http://4tv.site:2082/1999734/19997344411/17979
 #EXTINF:0 type="stream" channelId="-1", SPACE SD²
 http://4tv.site:2082/1999734/19997344411/35141
-#EXTINF:0 type="stream" channelId="-1", SPORTV FHD
-http://4tv.site:2082/1999734/19997344411/38311
 #EXTINF:0 type="stream" channelId="-1", SPORTV HD¹
 http://4tv.site:2082/1999734/19997344411/18276
 #EXTINF:0 type="stream" channelId="-1", SPORTV HD²
@@ -987,24 +927,6 @@ http://4tv.site:2082/1999734/19997344411/17984
 http://4tv.site:2082/1999734/19997344411/35146
 #EXTINF:0 type="stream" channelId="-1", SÉRGIO REIS
 http://4tv.site:2082/1999734/19997344411/34434
-#EXTINF:0 type="stream" channelId="-1", TASTEMADE BRASIL
-http://4tv.site:2082/1999734/19997344411/168590
-#EXTINF:0 type="stream" channelId="-1", TBS HD¹
-http://4tv.site:2082/1999734/19997344411/18279
-#EXTINF:0 type="stream" channelId="-1", TBS HD²
-http://4tv.site:2082/1999734/19997344411/35002
-#EXTINF:0 type="stream" channelId="-1", TBS SD¹
-http://4tv.site:2082/1999734/19997344411/17985
-#EXTINF:0 type="stream" channelId="-1", TBS SD²
-http://4tv.site:2082/1999734/19997344411/35217
-#EXTINF:0 type="stream" channelId="-1", TCM HD¹
-http://4tv.site:2082/1999734/19997344411/35003
-#EXTINF:0 type="stream" channelId="-1", TCM HD²
-http://4tv.site:2082/1999734/19997344411/35147
-#EXTINF:0 type="stream" channelId="-1", TCM SD¹
-http://4tv.site:2082/1999734/19997344411/17986
-#EXTINF:0 type="stream" channelId="-1", TCM SD²
-http://4tv.site:2082/1999734/19997344411/35218
 #EXTINF:0 type="stream" channelId="-1", TELECINE ACTION HD¹
 http://4tv.site:2082/1999734/19997344411/18280
 #EXTINF:0 type="stream" channelId="-1", TELECINE ACTION HD²
@@ -1053,20 +975,6 @@ http://4tv.site:2082/1999734/19997344411/35009
 http://4tv.site:2082/1999734/19997344411/17992
 #EXTINF:0 type="stream" channelId="-1", TELECINE TOUCH SD²
 http://4tv.site:2082/1999734/19997344411/35153
-#EXTINF:0 type="stream" channelId="-1", TERRA VIVA FHD
-http://4tv.site:2082/1999734/19997344411/17993
-#EXTINF:0 type="stream" channelId="-1", TERRA VIVA HD
-http://4tv.site:2082/1999734/19997344411/45998
-#EXTINF:0 type="stream" channelId="-1", TLC HD¹
-http://4tv.site:2082/1999734/19997344411/18286
-#EXTINF:0 type="stream" channelId="-1", TLC HD²
-http://4tv.site:2082/1999734/19997344411/35010
-#EXTINF:0 type="stream" channelId="-1", TLC SD¹
-http://4tv.site:2082/1999734/19997344411/17994
-#EXTINF:0 type="stream" channelId="-1", TLC SD²
-http://4tv.site:2082/1999734/19997344411/35154
-#EXTINF:0 type="stream" channelId="-1", TNT FHD¹
-http://4tv.site:2082/1999734/19997344411/176100
 #EXTINF:0 type="stream" channelId="-1", TNT HD¹
 http://4tv.site:2082/1999734/19997344411/18287
 #EXTINF:0 type="stream" channelId="-1", TNT HD²
@@ -1091,18 +999,6 @@ http://4tv.site:2082/1999734/19997344411/155200
 http://4tv.site:2082/1999734/19997344411/35157
 #EXTINF:0 type="stream" channelId="-1", TOONCAST SD¹
 http://4tv.site:2082/1999734/19997344411/17997
-#EXTINF:0 type="stream" channelId="-1", TRUTV FHD
-http://4tv.site:2082/1999734/19997344411/38755
-#EXTINF:0 type="stream" channelId="2636", TRUTV HD
-http://4tv.site:2082/1999734/19997344411/38754
-#EXTINF:0 type="stream" channelId="-1", TRUTV SD²
-http://4tv.site:2082/1999734/19997344411/34536
-#EXTINF:0 type="stream" channelId="-1", TRUTV SD¹
-http://4tv.site:2082/1999734/19997344411/17999
-#EXTINF:0 type="stream" channelId="2448", TV APARECIDA HD
-http://4tv.site:2082/1999734/19997344411/45999
-#EXTINF:0 type="stream" channelId="2448", TV APARECIDA SD
-http://4tv.site:2082/1999734/19997344411/18001
 #EXTINF:0 type="stream" channelId="2466", TV BRASIL HD
 http://4tv.site:2082/1999734/19997344411/43283
 #EXTINF:0 type="stream" channelId="2566", TV CAMARA SD
@@ -1119,20 +1015,14 @@ http://4tv.site:2082/1999734/19997344411/46005
 http://4tv.site:2082/1999734/19997344411/177264
 #EXTINF:0 type="stream" channelId="-1", TV EVANGELIZAR SD
 http://4tv.site:2082/1999734/19997344411/26814
-#EXTINF:0 type="stream" channelId="-1", TV EVANGELIZAR SD²
-http://4tv.site:2082/1999734/19997344411/37496
 #EXTINF:0 type="stream" channelId="-1", TV GLOOBINHO HD²
 http://4tv.site:2082/1999734/19997344411/35039
 #EXTINF:0 type="stream" channelId="-1", TV GLOOBINHO HD¹
 http://4tv.site:2082/1999734/19997344411/18024
 #EXTINF:0 type="stream" channelId="-1", TV GLOBINHO HD
 http://4tv.site:2082/1999734/19997344411/34236
-#EXTINF:0 type="stream" channelId="-1", TV IMACULADA HD
-http://4tv.site:2082/1999734/19997344411/45995
 #EXTINF:0 type="stream" channelId="-1", TV JUSTIÇA HD
 http://4tv.site:2082/1999734/19997344411/177265
-#EXTINF:0 type="stream" channelId="-1", TV PAI ETERNO SD
-http://4tv.site:2082/1999734/19997344411/35738
 #EXTINF:0 type="stream" channelId="-1", TV SENADO SD²
 http://4tv.site:2082/1999734/19997344411/177262
 #EXTINF:0 type="stream" channelId="-1", TV SENADO SD¹
