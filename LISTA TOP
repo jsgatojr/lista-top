@@ -11,14 +11,6 @@ http://4tv.site:2082/1999734/19997344411/201475
 http://4tv.site:2082/1999734/19997344411/201476
 #EXTINF:0 type="stream" channelId="-1", Champions League HBO MAX 04
 http://4tv.site:2082/1999734/19997344411/201477
-#EXTINF:0 type="stream" channelId="-1", Cine HardBlog
-http://4tv.site:2082/1999734/19997344411/168584
-#EXTINF:0 type="stream" channelId="-1", A&E HD²
-http://4tv.site:2082/1999734/19997344411/34915
-#EXTINF:0 type="stream" channelId="-1", A&E SD¹
-http://4tv.site:2082/1999734/19997344411/17878
-#EXTINF:0 type="stream" channelId="-1", A&E SD²
-http://4tv.site:2082/1999734/19997344411/35061
 #EXTINF:0 type="stream" channelId="-1", ALEXANDRE PIRES
 http://4tv.site:2082/1999734/19997344411/34428
 #EXTINF:0 type="stream" channelId="-1", ALL SPORTS HD¹
@@ -43,10 +35,6 @@ http://4tv.site:2082/1999734/19997344411/17880
 http://4tv.site:2082/1999734/19997344411/35232
 #EXTINF:0 type="stream" channelId="-1", ANIME STATION
 http://4tv.site:2082/1999734/19997344411/168591
-#EXTINF:0 type="stream" channelId="2572", ARTE1 HD
-http://4tv.site:2082/1999734/19997344411/38712
-#EXTINF:0 type="stream" channelId="2572", ARTE1 SD
-http://4tv.site:2082/1999734/19997344411/35165
 #EXTINF:0 type="stream" channelId="-1", AXN HD¹
 http://4tv.site:2082/1999734/19997344411/18207
 #EXTINF:0 type="stream" channelId="-1", AXN HD²
@@ -75,22 +63,12 @@ http://4tv.site:2082/1999734/19997344411/167780
 http://4tv.site:2082/1999734/19997344411/175424
 #EXTINF:0 type="stream" channelId="-1", BAND BRASILIA HD
 http://4tv.site:2082/1999734/19997344411/18032
-#EXTINF:0 type="stream" channelId="-1", BAND CAMPINAS FHD
-http://4tv.site:2082/1999734/19997344411/175421
-#EXTINF:0 type="stream" channelId="-1", BAND CAMPINAS SD
-http://4tv.site:2082/1999734/19997344411/177039
-#EXTINF:0 type="stream" channelId="-1", BAND MG HD
-http://4tv.site:2082/1999734/19997344411/17884
 #EXTINF:0 type="stream" channelId="-1", BAND NEWS HD¹
 http://4tv.site:2082/1999734/19997344411/38773
 #EXTINF:0 type="stream" channelId="-1", BAND NEWS HD²
 http://4tv.site:2082/1999734/19997344411/34922
 #EXTINF:0 type="stream" channelId="-1", BAND NEWS SD²
 http://4tv.site:2082/1999734/19997344411/35068
-#EXTINF:0 type="stream" channelId="-1", BAND PA HD
-http://4tv.site:2082/1999734/19997344411/177023
-#EXTINF:0 type="stream" channelId="-1", BAND PR FHD
-http://4tv.site:2082/1999734/19997344411/177024
 #EXTINF:0 type="stream" channelId="-1", BAND RS FHD
 http://4tv.site:2082/1999734/19997344411/175423
 #EXTINF:0 type="stream" channelId="-1", BAND SPORTS HD¹
@@ -103,14 +81,6 @@ http://4tv.site:2082/1999734/19997344411/17886
 http://4tv.site:2082/1999734/19997344411/35236
 #EXTINF:0 type="stream" channelId="-1", BELO #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/34430
-#EXTINF:0 type="stream" channelId="-1", BIS HD¹
-http://4tv.site:2082/1999734/19997344411/18209
-#EXTINF:0 type="stream" channelId="-1", BIS HD²
-http://4tv.site:2082/1999734/19997344411/34924
-#EXTINF:0 type="stream" channelId="-1", BIS SD²
-http://4tv.site:2082/1999734/19997344411/35070
-#EXTINF:0 type="stream" channelId="-1", BLOOMBERG HD
-http://4tv.site:2082/1999734/19997344411/44403
 #EXTINF:0 type="stream" channelId="-1", BOOMERANG HD²
 http://4tv.site:2082/1999734/19997344411/34925
 #EXTINF:0 type="stream" channelId="-1", BOOMERANG SD¹
@@ -481,14 +451,6 @@ http://4tv.site:2082/1999734/19997344411/34958
 http://4tv.site:2082/1999734/19997344411/17927
 #EXTINF:0 type="stream" channelId="-1", GLOOB SD²
 http://4tv.site:2082/1999734/19997344411/35102
-#EXTINF:0 type="stream" channelId="-1", GNT HD¹
-http://4tv.site:2082/1999734/19997344411/18241
-#EXTINF:0 type="stream" channelId="-1", GNT HD²
-http://4tv.site:2082/1999734/19997344411/34959
-#EXTINF:0 type="stream" channelId="-1", GNT SD¹
-http://4tv.site:2082/1999734/19997344411/17928
-#EXTINF:0 type="stream" channelId="-1", GNT SD²
-http://4tv.site:2082/1999734/19997344411/35196
 #EXTINF:0 type="stream" channelId="-1", GUSTAVO LIMA#FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35336
 #EXTINF:0 type="stream" channelId="-1", HBO HD¹
@@ -589,24 +551,8 @@ http://4tv.site:2082/1999734/19997344411/177254
 http://4tv.site:2082/1999734/19997344411/175060
 #EXTINF:0 type="stream" channelId="-1", LEONARDO #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35341
-#EXTINF:0 type="stream" channelId="-1", LIFETIME HD¹
-http://4tv.site:2082/1999734/19997344411/18250
-#EXTINF:0 type="stream" channelId="-1", LIFETIME HD²
-http://4tv.site:2082/1999734/19997344411/34968
-#EXTINF:0 type="stream" channelId="-1", LIFETIME SD¹
-http://4tv.site:2082/1999734/19997344411/17937
-#EXTINF:0 type="stream" channelId="-1", LIFETIME SD²
-http://4tv.site:2082/1999734/19997344411/35200
-#EXTINF:0 type="stream" channelId="-1", BOX KIDS TV FHD
-http://4tv.site:2082/1999734/19997344411/151910
 #EXTINF:0 type="stream" channelId="-1", MAIARA E MARAISA #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35339
-#EXTINF:0 type="stream" channelId="-1", MAIS GLOBOSAT HD¹
-http://4tv.site:2082/1999734/19997344411/18239
-#EXTINF:0 type="stream" channelId="-1", MAIS GLOBOSAT SD¹
-http://4tv.site:2082/1999734/19997344411/17938
-#EXTINF:0 type="stream" channelId="-1", MAIS NA TELA FHD
-http://4tv.site:2082/1999734/19997344411/151911
 #EXTINF:0 type="stream" channelId="-1", MAIS NA TELA HD
 http://4tv.site:2082/1999734/19997344411/151912
 #EXTINF:0 type="stream" channelId="-1", MAIS NA TELA SD
@@ -677,8 +623,6 @@ http://4tv.site:2082/1999734/19997344411/187405
 http://4tv.site:2082/1999734/19997344411/187406
 #EXTINF:0 type="stream" channelId="-1", NBA | League Pass 09
 http://4tv.site:2082/1999734/19997344411/187407
-#EXTINF:0 type="stream" channelId="-1", NHK WORD SD¹
-http://4tv.site:2082/1999734/19997344411/17950
 #EXTINF:0 type="stream" channelId="-1", NICK JR HD¹
 http://4tv.site:2082/1999734/19997344411/18261
 #EXTINF:0 type="stream" channelId="-1", NICK JR SD¹
@@ -693,16 +637,6 @@ http://4tv.site:2082/1999734/19997344411/34980
 http://4tv.site:2082/1999734/19997344411/17952
 #EXTINF:0 type="stream" channelId="-1", NICKELODEON SD²
 http://4tv.site:2082/1999734/19997344411/35125
-#EXTINF:0 type="stream" channelId="2609", NOVO TEMPO HD
-http://4tv.site:2082/1999734/19997344411/45996
-#EXTINF:0 type="stream" channelId="2609", NOVO TEMPO SD
-http://4tv.site:2082/1999734/19997344411/18023
-#EXTINF:0 type="stream" channelId="-1", OFF HD²
-http://4tv.site:2082/1999734/19997344411/35043
-#EXTINF:0 type="stream" channelId="-1", OFF SD¹
-http://4tv.site:2082/1999734/19997344411/17953
-#EXTINF:0 type="stream" channelId="-1", OFF SD²
-http://4tv.site:2082/1999734/19997344411/35269
 #EXTINF:0 type="stream" channelId="-1", OS MENOTTI #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/34423
 #EXTINF:0 type="stream" channelId="-1", PARAMOUNT HD¹
@@ -829,10 +763,8 @@ http://4tv.site:2082/1999734/19997344411/175889
 http://4tv.site:2082/1999734/19997344411/34419
 #EXTINF:0 type="stream" channelId="3548", ROCK TV
 http://4tv.site:2082/1999734/19997344411/38751
-#EXTINF:0 type="stream" channelId="-1", SANDY &amp; JUNIOR #FIQUE EM CASA
+#EXTINF:0 type="stream" channelId="-1", SANDY E JUNIOR #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/34418
-#EXTINF:0 type="stream" channelId="-1", SANTUÁRIO DE FÁTIMA FHD
-http://4tv.site:2082/1999734/19997344411/38732
 #EXTINF:0 type="stream" channelId="-1", SBT HD¹
 http://4tv.site:2082/1999734/19997344411/18292
 #EXTINF:0 type="stream" channelId="-1", SBT HD²
@@ -995,10 +927,6 @@ http://4tv.site:2082/1999734/19997344411/35156
 http://4tv.site:2082/1999734/19997344411/155198
 #EXTINF:0 type="stream" channelId="-1", TNT SPORTS 2 HD¹
 http://4tv.site:2082/1999734/19997344411/155200
-#EXTINF:0 type="stream" channelId="-1", TOONCAST SD²
-http://4tv.site:2082/1999734/19997344411/35157
-#EXTINF:0 type="stream" channelId="-1", TOONCAST SD¹
-http://4tv.site:2082/1999734/19997344411/17997
 #EXTINF:0 type="stream" channelId="2466", TV BRASIL HD
 http://4tv.site:2082/1999734/19997344411/43283
 #EXTINF:0 type="stream" channelId="2566", TV CAMARA SD
@@ -1041,20 +969,6 @@ http://4tv.site:2082/1999734/19997344411/177267
 http://4tv.site:2082/1999734/19997344411/177268
 #EXTINF:0 type="stream" channelId="-1", URBAN TV HD
 http://4tv.site:2082/1999734/19997344411/177266
-#EXTINF:0 type="stream" channelId="-1", VH1 HD²
-http://4tv.site:2082/1999734/19997344411/35016
-#EXTINF:0 type="stream" channelId="-1", VH1 SD¹
-http://4tv.site:2082/1999734/19997344411/18016
-#EXTINF:0 type="stream" channelId="-1", VH1 SD²
-http://4tv.site:2082/1999734/19997344411/35227
-#EXTINF:0 type="stream" channelId="-1", VIVA HD¹
-http://4tv.site:2082/1999734/19997344411/18295
-#EXTINF:0 type="stream" channelId="-1", VIVA HD²
-http://4tv.site:2082/1999734/19997344411/35017
-#EXTINF:0 type="stream" channelId="-1", VIVA SD²
-http://4tv.site:2082/1999734/19997344411/175426
-#EXTINF:0 type="stream" channelId="-1", VIVA SD¹
-http://4tv.site:2082/1999734/19997344411/18017
 #EXTINF:0 type="stream" channelId="-1", WARNER CHANNEL HD¹
 http://4tv.site:2082/1999734/19997344411/18296
 #EXTINF:0 type="stream" channelId="-1", WARNER CHANNEL HD²
@@ -1063,18 +977,6 @@ http://4tv.site:2082/1999734/19997344411/34538
 http://4tv.site:2082/1999734/19997344411/18018
 #EXTINF:0 type="stream" channelId="-1", WARNER CHANNEL SD²
 http://4tv.site:2082/1999734/19997344411/35162
-#EXTINF:0 type="stream" channelId="-1", WOOHOO SD¹
-http://4tv.site:2082/1999734/19997344411/18019
-#EXTINF:0 type="stream" channelId="-1", YEEAH TV HD
-http://4tv.site:2082/1999734/19997344411/38714
-#EXTINF:0 type="stream" channelId="-1", ZOOMOO  SD²
-http://4tv.site:2082/1999734/19997344411/35291
-#EXTINF:0 type="stream" channelId="-1", ZOOMOO FHD
-http://4tv.site:2082/1999734/19997344411/177258
-#EXTINF:0 type="stream" channelId="-1", ZOOMOO HD²
-http://4tv.site:2082/1999734/19997344411/177260
-#EXTINF:0 type="stream" channelId="-1", ZOOMOO HD¹
-http://4tv.site:2082/1999734/19997344411/177259
 #EXTINF:0 type="stream" channelId="-1", ZÉ NETO E CRISTIANO #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35340
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Cine Sucessos
@@ -1121,14 +1023,6 @@ http://4tv.site:2082/1999734/19997344411/194996
 http://4tv.site:2082/1999734/19997344411/194997
 #EXTINF:0 type="stream" channelId="-1", Porta dos Fundos
 http://4tv.site:2082/1999734/19997344411/194998
-#EXTINF:0 type="stream" channelId="2410", Babyfirst
-http://4tv.site:2082/1999734/19997344411/194999
-#EXTINF:0 type="stream" channelId="-1", FailArmy
-http://4tv.site:2082/1999734/19997344411/195000
-#EXTINF:0 type="stream" channelId="-1", People are Awesome
-http://4tv.site:2082/1999734/19997344411/195001
-#EXTINF:0 type="stream" channelId="-1", The Pet Collective
-http://4tv.site:2082/1999734/19997344411/195002
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Fashionstream
 http://4tv.site:2082/1999734/19997344411/195003
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Filmes Nacionais
@@ -1227,16 +1121,10 @@ http://4tv.site:2082/1999734/19997344411/195049
 http://4tv.site:2082/1999734/19997344411/195050
 #EXTINF:0 type="stream" channelId="-1", BAND RJ HD
 http://4tv.site:2082/1999734/19997344411/197037
-#EXTINF:0 type="stream" channelId="-1", BAND PARANA HD
-http://4tv.site:2082/1999734/19997344411/197038
-#EXTINF:0 type="stream" channelId="-1", RECORD SC
-http://4tv.site:2082/1999734/19997344411/198449
 #EXTINF:0 type="stream" channelId="1306", Cartoonito Hd
 http://4tv.site:2082/1999734/19997344411/200605
 #EXTINF:0 type="stream" channelId="1305", Cartoonito Sd
 http://4tv.site:2082/1999734/19997344411/200606
-#EXTINF:0 type="stream" channelId="-1", RECORD ES HD
-http://4tv.site:2082/1999734/19997344411/200876
 #EXTINF:0 type="stream" channelId="-1", Bundesliga 01
 http://4tv.site:2082/1999734/19997344411/201043
 #EXTINF:0 type="stream" channelId="-1", Bundesliga 02
@@ -1247,20 +1135,10 @@ http://4tv.site:2082/1999734/19997344411/201045
 http://4tv.site:2082/1999734/19997344411/201046
 #EXTINF:0 type="stream" channelId="-1", Bundesliga 05
 http://4tv.site:2082/1999734/19997344411/201047
-#EXTINF:0 type="stream" channelId="-1", Sabor & Arte HD¹
-http://4tv.site:2082/1999734/19997344411/201473
-#EXTINF:0 type="stream" channelId="-1", SBT REDE MASSA SD
-http://4tv.site:2082/1999734/19997344411/201636
 #EXTINF:0 type="stream" channelId="-1", CONMEBOL TV 1 SD
 http://4tv.site:2082/1999734/19997344411/202958
 #EXTINF:0 type="stream" channelId="3778", Natgeo Kids Sd
 http://4tv.site:2082/1999734/19997344411/203028
-#EXTINF:0 type="stream" channelId="-1", SHOP TIME FHD
-http://4tv.site:2082/1999734/19997344411/203583
-#EXTINF:0 type="stream" channelId="-1", SHOP TIME HD
-http://4tv.site:2082/1999734/19997344411/203584
-#EXTINF:0 type="stream" channelId="-1", RECORD ES FHD
-http://4tv.site:2082/1999734/19997344411/205475
 #EXTINF:0 type="stream" channelId="-1", 24H Charlie Brown e Snoopy
 http://4tv.site:2082/1999734/19997344411/172266
 #EXTINF:0 type="stream" channelId="-1", 24H Pesadelo Na Cozinha
