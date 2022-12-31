@@ -59,8 +59,6 @@ http://4tv.site:2082/1999734/19997344411/167781
 http://4tv.site:2082/1999734/19997344411/175420
 #EXTINF:0 type="stream" channelId="-1", BAND SP HD²
 http://4tv.site:2082/1999734/19997344411/167780
-#EXTINF:0 type="stream" channelId="-1", BAND BA HD
-http://4tv.site:2082/1999734/19997344411/175424
 #EXTINF:0 type="stream" channelId="-1", BAND BRASILIA HD
 http://4tv.site:2082/1999734/19997344411/18032
 #EXTINF:0 type="stream" channelId="-1", BAND NEWS HD¹
@@ -163,14 +161,6 @@ http://4tv.site:2082/1999734/19997344411/35238
 http://4tv.site:2082/1999734/19997344411/38719
 #EXTINF:0 type="stream" channelId="-1", CNN BRASIL SD²
 http://4tv.site:2082/1999734/19997344411/34628
-#EXTINF:0 type="stream" channelId="-1", CNN INTERNACIONAL HD
-http://4tv.site:2082/1999734/19997344411/38721
-#EXTINF:0 type="stream" channelId="-1", CNN INTERNACIONAL SD ¹
-http://4tv.site:2082/1999734/19997344411/20889
-#EXTINF:0 type="stream" channelId="-1", CNT HD
-http://4tv.site:2082/1999734/19997344411/36761
-#EXTINF:0 type="stream" channelId="-1", CNT SD²
-http://4tv.site:2082/1999734/19997344411/38774
 #EXTINF:0 type="stream" channelId="-1", COMBATE HD¹
 http://4tv.site:2082/1999734/19997344411/18213
 #EXTINF:0 type="stream" channelId="-1", COMBATE HD²
@@ -201,10 +191,6 @@ http://4tv.site:2082/1999734/19997344411/39182
 http://4tv.site:2082/1999734/19997344411/39183
 #EXTINF:0 type="stream" channelId="-1", CONMEBOL 4 HD²
 http://4tv.site:2082/1999734/19997344411/46209
-#EXTINF:0 type="stream" channelId="-1", CURTA! HD¹
-http://4tv.site:2082/1999734/19997344411/34926
-#EXTINF:0 type="stream" channelId="-1", CURTA! SD²
-http://4tv.site:2082/1999734/19997344411/35072
 #EXTINF:0 type="stream" channelId="-1", DAZN 01 SD¹ [em eventos]
 http://4tv.site:2082/1999734/19997344411/18033
 #EXTINF:0 type="stream" channelId="-1", DAZN 2 HD²  [em eventos]
@@ -233,18 +219,6 @@ http://4tv.site:2082/1999734/19997344411/34936
 http://4tv.site:2082/1999734/19997344411/17900
 #EXTINF:0 type="stream" channelId="-1", DISCOVERY KIDS SD²
 http://4tv.site:2082/1999734/19997344411/35083
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY SCIENCE HD¹
-http://4tv.site:2082/1999734/19997344411/18219
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY SCIENCE HD²
-http://4tv.site:2082/1999734/19997344411/34937
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY SCIENCE SD²
-http://4tv.site:2082/1999734/19997344411/35084
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY THEATER HD¹
-http://4tv.site:2082/1999734/19997344411/18220
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY THEATER HD²
-http://4tv.site:2082/1999734/19997344411/34938
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY THEATER SD²
-http://4tv.site:2082/1999734/19997344411/35085
 #EXTINF:0 type="stream" channelId="-1", DISCOVERY TURBO HD¹
 http://4tv.site:2082/1999734/19997344411/18221
 #EXTINF:0 type="stream" channelId="-1", DISCOVERY TURBO HD²
@@ -367,34 +341,14 @@ http://4tv.site:2082/1999734/19997344411/35099
 http://4tv.site:2082/1999734/19997344411/18229
 #EXTINF:0 type="stream" channelId="-1", FABIO JR #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/34424
-#EXTINF:0 type="stream" channelId="-1", FashionTV HD¹
-http://4tv.site:2082/1999734/19997344411/181186
 #EXTINF:0 type="stream" channelId="-1", FELIPE ARAUJO #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35335
-#EXTINF:0 type="stream" channelId="-1", FISH TV HD²
-http://4tv.site:2082/1999734/19997344411/173628
-#EXTINF:0 type="stream" channelId="-1", FISH TV SD¹
-http://4tv.site:2082/1999734/19997344411/17913
-#EXTINF:0 type="stream" channelId="-1", FISHTV SD²
-http://4tv.site:2082/1999734/19997344411/173629
 #EXTINF:0 type="stream" channelId="-1", FLA TV [em eventos]
 http://4tv.site:2082/1999734/19997344411/41702
-#EXTINF:0 type="stream" channelId="-1", FOOD NETWORK HD¹
-http://4tv.site:2082/1999734/19997344411/18230
-#EXTINF:0 type="stream" channelId="-1", FOOD NETWORK HD²
-http://4tv.site:2082/1999734/19997344411/34474
-#EXTINF:0 type="stream" channelId="-1", FOOD NETWORK SD¹
-http://4tv.site:2082/1999734/19997344411/17914
-#EXTINF:0 type="stream" channelId="-1", FOOD NETWORK SD²
-http://4tv.site:2082/1999734/19997344411/35249
 #EXTINF:0 type="stream" channelId="-1", STAR CHANNEL HD²
 http://4tv.site:2082/1999734/19997344411/34475
 #EXTINF:0 type="stream" channelId="-1", STAR CHANNEL SD²
 http://4tv.site:2082/1999734/19997344411/38778
-#EXTINF:0 type="stream" channelId="-1", STAR LIFE HD²
-http://4tv.site:2082/1999734/19997344411/34953
-#EXTINF:0 type="stream" channelId="-1", STAR LIFE SD²
-http://4tv.site:2082/1999734/19997344411/35096
 #EXTINF:0 type="stream" channelId="1317", FOX NEWS SD
 http://4tv.site:2082/1999734/19997344411/38727
 #EXTINF:0 type="stream" channelId="-1", FOX NEWS HD
@@ -415,8 +369,6 @@ http://4tv.site:2082/1999734/19997344411/34956
 http://4tv.site:2082/1999734/19997344411/17920
 #EXTINF:0 type="stream" channelId="-1", FX SD²
 http://4tv.site:2082/1999734/19997344411/35100
-#EXTINF:0 type="stream" channelId="2437", GAZETA SD
-http://4tv.site:2082/1999734/19997344411/36763
 #EXTINF:0 type="stream" channelId="-1", GE.COM HD [em eventos]
 http://4tv.site:2082/1999734/19997344411/37498
 #EXTINF:0 type="stream" channelId="-1", PLAY KIDS
@@ -443,14 +395,6 @@ http://4tv.site:2082/1999734/19997344411/173931
 http://4tv.site:2082/1999734/19997344411/173930
 #EXTINF:0 type="stream" channelId="-1", GLOBO REDE AMAZONICA SD
 http://4tv.site:2082/1999734/19997344411/173927
-#EXTINF:0 type="stream" channelId="-1", GLOOB HD¹
-http://4tv.site:2082/1999734/19997344411/18240
-#EXTINF:0 type="stream" channelId="-1", GLOOB HD²
-http://4tv.site:2082/1999734/19997344411/34958
-#EXTINF:0 type="stream" channelId="-1", GLOOB SD¹
-http://4tv.site:2082/1999734/19997344411/17927
-#EXTINF:0 type="stream" channelId="-1", GLOOB SD²
-http://4tv.site:2082/1999734/19997344411/35102
 #EXTINF:0 type="stream" channelId="-1", GUSTAVO LIMA#FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35336
 #EXTINF:0 type="stream" channelId="-1", HBO HD¹
@@ -511,8 +455,6 @@ http://4tv.site:2082/1999734/19997344411/174932
 http://4tv.site:2082/1999734/19997344411/18246
 #EXTINF:0 type="stream" channelId="-1", HBO XTREME HD¹
 http://4tv.site:2082/1999734/19997344411/18252
-#EXTINF:0 type="stream" channelId="-1", HGTV SD¹
-http://4tv.site:2082/1999734/19997344411/35081
 #EXTINF:0 type="stream" channelId="-1", HISTORY 2 HD²
 http://4tv.site:2082/1999734/19997344411/34960
 #EXTINF:0 type="stream" channelId="-1", HISTORY 2 HD¹
@@ -527,8 +469,6 @@ http://4tv.site:2082/1999734/19997344411/18248
 http://4tv.site:2082/1999734/19997344411/35110
 #EXTINF:0 type="stream" channelId="-1", HISTORY CHANNEL SD¹
 http://4tv.site:2082/1999734/19997344411/18021
-#EXTINF:0 type="stream" channelId="-1", IGREJA UNIVERSAL SD
-http://4tv.site:2082/1999734/19997344411/45992
 #EXTINF:0 type="stream" channelId="-1", INVESTIGAÇÃO DISCOVERY HD¹
 http://4tv.site:2082/1999734/19997344411/18249
 #EXTINF:0 type="stream" channelId="-1", INVESTIGAÇÃO DISCOVERY HD²
@@ -545,10 +485,6 @@ http://4tv.site:2082/1999734/19997344411/34421
 http://4tv.site:2082/1999734/19997344411/34426
 #EXTINF:0 type="stream" channelId="-1", JORGE E MATHEUS #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35338
-#EXTINF:0 type="stream" channelId="-1", JOVEM PAN NEWS HD¹
-http://4tv.site:2082/1999734/19997344411/177254
-#EXTINF:0 type="stream" channelId="-1", JOVEM PAN NEWS HD²
-http://4tv.site:2082/1999734/19997344411/175060
 #EXTINF:0 type="stream" channelId="-1", LEONARDO #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/35341
 #EXTINF:0 type="stream" channelId="-1", MAIARA E MARAISA #FIQUE EM CASA
@@ -559,8 +495,6 @@ http://4tv.site:2082/1999734/19997344411/151912
 http://4tv.site:2082/1999734/19997344411/151913
 #EXTINF:0 type="stream" channelId="-1", MARILIA MENDONÇA
 http://4tv.site:2082/1999734/19997344411/34429
-#EXTINF:0 type="stream" channelId="-1", MASTER SHOW TV HD
-http://4tv.site:2082/1999734/19997344411/38741
 #EXTINF:0 type="stream" channelId="-1", MEGAPIX HD¹
 http://4tv.site:2082/1999734/19997344411/18254
 #EXTINF:0 type="stream" channelId="-1", MEGAPIX HD²
@@ -589,8 +523,6 @@ http://4tv.site:2082/1999734/19997344411/35119
 http://4tv.site:2082/1999734/19997344411/38740
 #EXTINF:0 type="stream" channelId="-1", MUSIC BOX BRAZIL SD²
 http://4tv.site:2082/1999734/19997344411/17946
-#EXTINF:0 type="stream" channelId="-1", MY TIME MOVIE NETWORK HD
-http://4tv.site:2082/1999734/19997344411/156037
 #EXTINF:0 type="stream" channelId="-1", NATGEO HD²
 http://4tv.site:2082/1999734/19997344411/34978
 #EXTINF:0 type="stream" channelId="-1", NATGEO SD²
@@ -603,26 +535,6 @@ http://4tv.site:2082/1999734/19997344411/17949
 http://4tv.site:2082/1999734/19997344411/18258
 #EXTINF:0 type="stream" channelId="-1", NATIRUTS
 http://4tv.site:2082/1999734/19997344411/34427
-#EXTINF:0 type="stream" channelId="805", NBA TV
-http://4tv.site:2082/1999734/19997344411/187398
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 01
-http://4tv.site:2082/1999734/19997344411/187399
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 02
-http://4tv.site:2082/1999734/19997344411/187400
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 03
-http://4tv.site:2082/1999734/19997344411/187401
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 04
-http://4tv.site:2082/1999734/19997344411/187402
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 05
-http://4tv.site:2082/1999734/19997344411/187403
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 06
-http://4tv.site:2082/1999734/19997344411/187404
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 07
-http://4tv.site:2082/1999734/19997344411/187405
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 08
-http://4tv.site:2082/1999734/19997344411/187406
-#EXTINF:0 type="stream" channelId="-1", NBA | League Pass 09
-http://4tv.site:2082/1999734/19997344411/187407
 #EXTINF:0 type="stream" channelId="-1", NICK JR HD¹
 http://4tv.site:2082/1999734/19997344411/18261
 #EXTINF:0 type="stream" channelId="-1", NICK JR SD¹
@@ -711,10 +623,6 @@ http://4tv.site:2082/1999734/19997344411/34989
 http://4tv.site:2082/1999734/19997344411/17967
 #EXTINF:0 type="stream" channelId="-1", PRIME BOX BRASIL SD²
 http://4tv.site:2082/1999734/19997344411/38745
-#EXTINF:0 type="stream" channelId="-1", RA TIM BUM HD¹
-http://4tv.site:2082/1999734/19997344411/18291
-#EXTINF:0 type="stream" channelId="-1", RA TIM BUM SD²
-http://4tv.site:2082/1999734/19997344411/35225
 #EXTINF:0 type="stream" channelId="-1", RAÇA NEGRA #FIQUE EM CASA
 http://4tv.site:2082/1999734/19997344411/34422
 #EXTINF:0 type="stream" channelId="-1", RECORD HD²
@@ -735,8 +643,6 @@ http://4tv.site:2082/1999734/19997344411/34514
 http://4tv.site:2082/1999734/19997344411/188770
 #EXTINF:0 type="stream" channelId="-1", RECORD RIO SD¹
 http://4tv.site:2082/1999734/19997344411/43126
-#EXTINF:0 type="stream" channelId="-1", RECORD BRASILIA HD²
-http://4tv.site:2082/1999734/19997344411/34509
 #EXTINF:0 type="stream" channelId="-1", RECORD NEWS HD²
 http://4tv.site:2082/1999734/19997344411/38746
 #EXTINF:0 type="stream" channelId="-1", RECORD NEWS HD¹
@@ -849,14 +755,6 @@ http://4tv.site:2082/1999734/19997344411/35000
 http://4tv.site:2082/1999734/19997344411/17983
 #EXTINF:0 type="stream" channelId="-1", STUDIO UNIVERSAL SD²
 http://4tv.site:2082/1999734/19997344411/35145
-#EXTINF:0 type="stream" channelId="-1", SYFY HD¹
-http://4tv.site:2082/1999734/19997344411/18278
-#EXTINF:0 type="stream" channelId="-1", SYFY HD²
-http://4tv.site:2082/1999734/19997344411/35001
-#EXTINF:0 type="stream" channelId="-1", SYfY SD¹
-http://4tv.site:2082/1999734/19997344411/17984
-#EXTINF:0 type="stream" channelId="-1", SYFY SD²
-http://4tv.site:2082/1999734/19997344411/35146
 #EXTINF:0 type="stream" channelId="-1", SÉRGIO REIS
 http://4tv.site:2082/1999734/19997344411/34434
 #EXTINF:0 type="stream" channelId="-1", TELECINE ACTION HD¹
@@ -935,14 +833,10 @@ http://4tv.site:2082/1999734/19997344411/18003
 http://4tv.site:2082/1999734/19997344411/177263
 #EXTINF:0 type="stream" channelId="-1", TV CULTURA SD¹
 http://4tv.site:2082/1999734/19997344411/18005
-#EXTINF:0 type="stream" channelId="-1", TV das Artes
-http://4tv.site:2082/1999734/19997344411/28246
 #EXTINF:0 type="stream" channelId="-1", TV DIARIO HD
 http://4tv.site:2082/1999734/19997344411/46005
 #EXTINF:0 type="stream" channelId="-1", TV ESCOLA HD
 http://4tv.site:2082/1999734/19997344411/177264
-#EXTINF:0 type="stream" channelId="-1", TV EVANGELIZAR SD
-http://4tv.site:2082/1999734/19997344411/26814
 #EXTINF:0 type="stream" channelId="-1", TV GLOOBINHO HD²
 http://4tv.site:2082/1999734/19997344411/35039
 #EXTINF:0 type="stream" channelId="-1", TV GLOOBINHO HD¹
@@ -1045,12 +939,8 @@ http://4tv.site:2082/1999734/19997344411/195011
 http://4tv.site:2082/1999734/19997344411/195012
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Cine Clássicos
 http://4tv.site:2082/1999734/19997344411/195013
-#EXTINF:0 type="stream" channelId="-1", Guia de Canais
-http://4tv.site:2082/1999734/19997344411/195014
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Mistérios
 http://4tv.site:2082/1999734/19997344411/195015
-#EXTINF:0 type="stream" channelId="-1", Tastemade
-http://4tv.site:2082/1999734/19997344411/195016
 #EXTINF:0 type="stream" channelId="-1", Tokusato
 http://4tv.site:2082/1999734/19997344411/195017
 #EXTINF:0 type="stream" channelId="-1", BET Pluto TV
@@ -1067,8 +957,6 @@ http://4tv.site:2082/1999734/19997344411/195022
 http://4tv.site:2082/1999734/19997344411/195023
 #EXTINF:0 type="stream" channelId="-1", MTV Biggest Pop
 http://4tv.site:2082/1999734/19997344411/195024
-#EXTINF:0 type="stream" channelId="-1", MTV Spankin' New
-http://4tv.site:2082/1999734/19997344411/195025
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Paisagens por Stingray
 http://4tv.site:2082/1999734/19997344411/195026
 #EXTINF:0 type="stream" channelId="-1", Pluto TV Anime Ação
@@ -1109,16 +997,6 @@ http://4tv.site:2082/1999734/19997344411/195043
 http://4tv.site:2082/1999734/19997344411/195044
 #EXTINF:0 type="stream" channelId="-1", Pronto-socorro: Histórias De Emergência
 http://4tv.site:2082/1999734/19997344411/195045
-#EXTINF:0 type="stream" channelId="-1", La Otra Cara del Alma
-http://4tv.site:2082/1999734/19997344411/195046
-#EXTINF:0 type="stream" channelId="-1", Diff’rent Strokes Arnold
-http://4tv.site:2082/1999734/19997344411/195047
-#EXTINF:0 type="stream" channelId="-1", Rugrats
-http://4tv.site:2082/1999734/19997344411/195048
-#EXTINF:0 type="stream" channelId="-1", Schitt's Creek
-http://4tv.site:2082/1999734/19997344411/195049
-#EXTINF:0 type="stream" channelId="-1", Nickelodeon iCarly
-http://4tv.site:2082/1999734/19997344411/195050
 #EXTINF:0 type="stream" channelId="-1", BAND RJ HD
 http://4tv.site:2082/1999734/19997344411/197037
 #EXTINF:0 type="stream" channelId="1306", Cartoonito Hd
@@ -1241,6 +1119,10 @@ http://4tv.site:2082/1999734/19997344411/27492
 http://4tv.site:2082/1999734/19997344411/27493
 #EXTINF:0 type="stream" channelId="-1", 24H BOB ESPONJA T01 A 04
 http://4tv.site:2082/1999734/19997344411/19495
+#EXTINF:0 type="stream" channelId="-1", 24H BOB ESPONJA T05 A 08
+http://4tv.site:2082/1999734/19997344411/155664
+#EXTINF:0 type="stream" channelId="-1", 24H Bob Esponja T09 a T12
+http://4tv.site:2082/1999734/19997344411/200881
 #EXTINF:0 type="stream" channelId="-1", SHE-RA E AS PRINCESAS DO PODER
 http://4tv.site:2082/1999734/19997344411/19525
 #EXTINF:0 type="stream" channelId="-1", OS PADRINHOS MAGICOS
@@ -1275,14 +1157,14 @@ http://4tv.site:2082/1999734/19997344411/20005
 http://4tv.site:2082/1999734/19997344411/20008
 #EXTINF:0 type="stream" channelId="-1", 24H PATRULHA CANINA T02
 http://4tv.site:2082/1999734/19997344411/20009
-#EXTINF:0 type="stream" channelId="-1", 24H TRÊS ESPIÃS DEMAIS
-http://4tv.site:2082/1999734/19997344411/26828
-#EXTINF:0 type="stream" channelId="-1", 24H TOM & JERRY CLASSICO
-http://4tv.site:2082/1999734/19997344411/27150
 #EXTINF:0 type="stream" channelId="-1", 24H PATRULHA CANINA T03
 http://4tv.site:2082/1999734/19997344411/29345
 #EXTINF:0 type="stream" channelId="-1", 24H PATRULHA CANINA T04
 http://4tv.site:2082/1999734/19997344411/29346
+#EXTINF:0 type="stream" channelId="-1", 24H TRÊS ESPIÃS DEMAIS
+http://4tv.site:2082/1999734/19997344411/26828
+#EXTINF:0 type="stream" channelId="-1", 24H TOM & JERRY CLASSICO
+http://4tv.site:2082/1999734/19997344411/27150
 #EXTINF:0 type="stream" channelId="-1", 24H BUBU E AS CORUJINHAS
 http://4tv.site:2082/1999734/19997344411/35297
 #EXTINF:0 type="stream" channelId="-1", 24H O SHOW DO GARFIELD
@@ -1649,12 +1531,12 @@ http://4tv.site:2082/1999734/19997344411/38771
 http://4tv.site:2082/1999734/19997344411/38998
 #EXTINF:0 type="stream" channelId="-1", 24H 2 HOMENS E MEIO T01 A T06
 http://4tv.site:2082/1999734/19997344411/39185
+#EXTINF:0 type="stream" channelId="-1", 24H 2 HOMENS E MEIO T07 A T12
+http://4tv.site:2082/1999734/19997344411/152541
 #EXTINF:0 type="stream" channelId="-1", 24H HENRY DANGER
 http://4tv.site:2082/1999734/19997344411/43142
 #EXTINF:0 type="stream" channelId="-1", 24H CHAVES MULTISHOW
 http://4tv.site:2082/1999734/19997344411/47561
-#EXTINF:0 type="stream" channelId="-1", 24H 2 HOMENS E MEIO T07 A T12
-http://4tv.site:2082/1999734/19997344411/152541
 #EXTINF:0 type="stream" channelId="-1", 24H Larva
 http://4tv.site:2082/1999734/19997344411/154963
 #EXTINF:0 type="stream" channelId="-1", 24H Família Dinossauro
@@ -1681,8 +1563,6 @@ http://4tv.site:2082/1999734/19997344411/155659
 http://4tv.site:2082/1999734/19997344411/155662
 #EXTINF:0 type="stream" channelId="-1", 24H CAPITÃO PLANETA
 http://4tv.site:2082/1999734/19997344411/155663
-#EXTINF:0 type="stream" channelId="-1", 24H BOB ESPONJA T05 A 08
-http://4tv.site:2082/1999734/19997344411/155664
 #EXTINF:0 type="stream" channelId="-1", 24H INUYASHA (ANIME)
 http://4tv.site:2082/1999734/19997344411/155665
 #EXTINF:0 type="stream" channelId="-1", 24H AS TARTARUGAS NINJAS CLASSICO
@@ -1755,8 +1635,6 @@ http://4tv.site:2082/1999734/19997344411/200874
 http://4tv.site:2082/1999734/19997344411/200879
 #EXTINF:0 type="stream" channelId="-1", 24H Mickey Donald e Pateta
 http://4tv.site:2082/1999734/19997344411/200880
-#EXTINF:0 type="stream" channelId="-1", 24H Bob Esponja T09 a T12
-http://4tv.site:2082/1999734/19997344411/200881
 #EXTINF:0 type="stream" channelId="-1", 24H Chapolin Colorado T01 a T03
 http://4tv.site:2082/1999734/19997344411/200882
 #EXTINF:0 type="stream" channelId="-1", 24H Chapolin Colorado T04 a T07
