@@ -397,8 +397,6 @@ http://168.75.66.196:8080/marcelokdk/909090/152351
 http://168.75.66.196:8080/marcelokdk/909090/151788
 #EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="https://i.imgur.com/RBcHT39.png" group-title="CANAIS 24H",ALADIN 24HS
 http://168.75.66.196:8080/marcelokdk/909090/149481
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD¹" tvg-logo="http://p2.veloznetv.com:25461/images/794d8ff29e69021d3e4d5b41852eba2f.png" group-title="INTERNACIONAIS ESPORTES",ALL SPORTS HD¹
-http://168.75.66.196:8080/marcelokdk/909090/151065
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 01 ( FONT 2 )" tvg-logo="" group-title="ESPORTES",AMAZON PRIME 01 ( FONT 2 )
 http://168.75.66.196:8080/marcelokdk/909090/152572
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 02 ( FONT 2 )" tvg-logo="" group-title="ESPORTES",AMAZON PRIME 02 ( FONT 2 )
@@ -529,8 +527,6 @@ http://168.75.66.196:8080/marcelokdk/909090/149487
 http://168.75.66.196:8080/marcelokdk/909090/149488
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="PLUTO TV",Bob Esponja Calça Quadrada
 http://168.75.66.196:8080/marcelokdk/909090/152353
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIf3H0B10kWq9MmRN8u_IVQRm6dxd6PFAWKg&usqp=CAU" group-title="INTERNACIONAIS DEMAIS PAISES",BRASIL | ESPN 1 HD
-http://168.75.66.196:8080/marcelokdk/909090/151385
 #EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 01 ( FONT 2 )" tvg-logo="http://dnsbr.tk:80/images/daaaf8d2867b1ddc7c739cb4a38db7c1.png" group-title="ESPORTES",BRASILEIRÃO SERIE D 01 ( FONT 2 )
 http://168.75.66.196:8080/marcelokdk/909090/152576
 #EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE D 02  ( FONT 2 )" tvg-logo="http://dnsbr.tk:80/images/daaaf8d2867b1ddc7c739cb4a38db7c1.png" group-title="ESPORTES",BRASILEIRÃO SERIE D 02  ( FONT 2 )
@@ -1205,8 +1201,6 @@ http://168.75.66.196:8080/marcelokdk/909090/152717
 http://168.75.66.196:8080/marcelokdk/909090/152718
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV HD (FONT2)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="RELIGIOSO",GOSPEL MOVIE TV HD (FONT2)
 http://168.75.66.196:8080/marcelokdk/909090/152719
-#EXTINF:-1 tvg-id="" tvg-name="GUATEVISION" tvg-logo="http://dnsbr.tk:80/images/ac0eb2aac228b240920b0f7d7f6bfdae.png" group-title="INTERNACIONAIS DEMAIS PAISES",GUATEVISION
-http://168.75.66.196:8080/marcelokdk/909090/151449
 #EXTINF:-1 tvg-id="5fa97a8a75cc210007c9041d" tvg-name="Guia de Canais" tvg-logo="http://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="PLUTO TV",Guia de Canais
 http://168.75.66.196:8080/marcelokdk/909090/152245
 #EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="DOCUMENTARIOS",H2 HD
@@ -1295,8 +1289,6 @@ http://168.75.66.196:8080/marcelokdk/909090/149821
 http://168.75.66.196:8080/marcelokdk/909090/149822
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="IGREJA UNIVERSAL HD" tvg-logo="https://i.imgur.com/pBmnb5T.png" group-title="RELIGIOSO",IGREJA UNIVERSAL HD
 http://168.75.66.196:8080/marcelokdk/909090/150307
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://dnsbr.tk:80/images/563d9af204a4fd9cbfe93581a4ce994b.png" group-title="INTERNACIONAIS ESTADOS UNIDOS",INVESTIGATION DISCOVERY HD
-http://168.75.66.196:8080/marcelokdk/909090/150691
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logotipo_de_Canal_24_Horas_%282011-2015%29.png/698px-Logotipo_de_Canal_24_Horas_%282011-2015%29.png" group-title="CANAIS 24H",INVESTIGAÇAO CRIMINAL
 http://168.75.66.196:8080/marcelokdk/909090/151806
 #EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="CANAIS 24H",Jack-Chan 24hs
@@ -1667,8 +1659,6 @@ http://168.75.66.196:8080/marcelokdk/909090/152292
 http://168.75.66.196:8080/marcelokdk/909090/149530
 #EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="CANAIS 24H",Popeye O Marinheiro 24hs
 http://168.75.66.196:8080/marcelokdk/909090/149531
-#EXTINF:-1 tvg-id="" tvg-name="PORNO STAR ( FONTE 2 )" tvg-logo="" group-title="XXX +18",PORNO STAR ( FONTE 2 )
-http://168.75.66.196:8080/marcelokdk/909090/150546
 #EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-name="Porta dos Fundos" tvg-logo="http://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG-1602877726414.png" group-title="PLUTO TV",Porta dos Fundos
 http://168.75.66.196:8080/marcelokdk/909090/152313
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title="PREMIERE",PREMIERE 2 HD
